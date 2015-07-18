@@ -3,7 +3,7 @@ package weblib;
 import io.dropwizard.assets.AssetsBundle;
 import io.dropwizard.setup.Bootstrap;
 
-public class WebLibsDeploy
+public class WebLibs
 {
     public static final String CONTEXT_ROOT_ACE= "/ace";
     public static final String CONTEXT_ROOT_ANGULAR = "/ng";
